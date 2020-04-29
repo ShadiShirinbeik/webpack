@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 "# webpack" 
 =======
 "# webpack"
@@ -11,5 +10,3 @@ Shadi
 
 -Webpack
 -JavaScript
-
->>>>>>> 39ae35321834849dc1b73973dfdf9058ab94a736
